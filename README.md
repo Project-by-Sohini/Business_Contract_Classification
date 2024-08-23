@@ -11,7 +11,7 @@ semantics to generate corresponding suggestions.
 <br>
 
 #Unique Idea Brief 
-
+<br>
 <br>
 The Advanced Contract Analysis and Deviation Detection System is an innovative solution designed to streamline and automate
 the meticulous process of business contract analysis. This system integrates multiple advanced technologies, including machine
@@ -28,9 +28,9 @@ within the contract and saves these annotated contracts as PDFs for easy referen
 only improves efficiency and accuracy in contract analysis but also offers valuable insights and corrective measures, making it an
 indispensable tool for businesses handling complex contractual agreements.
 <br>
-
+<br>
 #Features Offered
-
+<br>
 <br>
 1. Synthetic Contract Generation: Utilizing the Faker library to create realistic contract datasets.
 2. PDF Text Extraction: Extracting text from PDF contracts using PyMuPDF (Fitz).
@@ -46,9 +46,9 @@ reference and review.
 critical contract details.
 9. Suggestion: Generate suggestion based on the deviation
 <br>
-
+<br>
 #Technologies used
-
+<br>
 <br>
  Python: The primary programming language used for the entire workflow.
  pandas: For data manipulation and analysis.
