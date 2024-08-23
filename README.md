@@ -50,29 +50,34 @@ critical contract details.
 #Technologies used
 <br>
 <br>
-    1. Python: The primary programming language used for the entire workflow.
-        <br>
-    2. pandas: For data manipulation and analysis.
-  <br>
-    3. csv: For reading from and writing to CSV files.
-  <br>
-    4. pdfkit: For converting HTML content to PDF files.
-       <br>
-    5. reportlab: For generating PDF files.
-        <br>
-    6. fitz (PyMuPDF): For extracting text from PDF files.
-        <br>
-    7. spacy: For natural language processing, particularly Named Entity Recognition (NER).
-     <br>
-    8. networkx: For creating and manipulating complex networks (graphs).
-        <br>
-    9. matplotlib: For plotting and visualizing graphs.
-        <br>
-    10. datetime: For handling dates and times.
-        <br>
-    11. transformers: From Hugging Face, for leveraging pre-trained models like BERT and DistilBERT for sequence classification.
-  22. torch: For working with PyTorch, a deep learning library used for training models.
-  23. Faker: For generating synthetic data.
-  24. random: For generating random values.
-  25. sklearn: For machine learning tasks (specifically mentioned, but not used in the provided code).
-26. BERT and DistilBERT models: For sequence classification tasks, using pre-trained models from Hugging Face.
+            1. Python: The primary programming language used for the entire workflow.
+                                <br>
+            2. pandas: For data manipulation and analysis.
+                          <br>
+            3. csv: For reading from and writing to CSV files.
+                          <br>
+            4. pdfkit: For converting HTML content to PDF files.
+                               <br>
+            5. reportlab: For generating PDF files.
+                                <br>
+            6. fitz (PyMuPDF): For extracting text from PDF files.
+                                <br>
+            7. spacy: For natural language processing, particularly Named Entity Recognition (NER).
+                             <br>
+            8. networkx: For creating and manipulating complex networks (graphs).
+                                <br>
+            9. matplotlib: For plotting and visualizing graphs.
+                                <br>
+            10. datetime: For handling dates and times.
+                                <br>
+            11. transformers: From Hugging Face, for leveraging pre-trained models like BERT and DistilBERT for sequence classification.
+                                <br>
+            12. torch: For working with PyTorch, a deep learning library used for training models.
+                              <br>
+            13. Faker: For generating synthetic data.
+                              <br>
+            14. random: For generating random values.
+                              <br>
+            15. sklearn: For machine learning tasks (specifically mentioned, but not used in the provided code).
+                            <br>
+            16. BERT and DistilBERT models: For sequence classification tasks, using pre-trained models from Hugging Face.
