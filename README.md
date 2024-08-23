@@ -50,19 +50,19 @@ critical contract details.
 #Technologies used
 <br>
 <br>
- Python: The primary programming language used for the entire workflow.
- pandas: For data manipulation and analysis.
- csv: For reading from and writing to CSV files.
- pdfkit: For converting HTML content to PDF files.
- reportlab: For generating PDF files.
- fitz (PyMuPDF): For extracting text from PDF files.
- spacy: For natural language processing, particularly Named Entity Recognition (NER).
- networkx: For creating and manipulating complex networks (graphs).
- matplotlib: For plotting and visualizing graphs.
- datetime: For handling dates and times.
- transformers: From Hugging Face, for leveraging pre-trained models like BERT and DistilBERT for sequence classification.
- torch: For working with PyTorch, a deep learning library used for training models.
- Faker: For generating synthetic data.
- random: For generating random values.
- sklearn: For machine learning tasks (specifically mentioned, but not used in the provided code).
- BERT and DistilBERT models: For sequence classification tasks, using pre-trained models from Hugging Face.
+1. Python: The primary programming language used for the entire workflow.
+2. pandas: For data manipulation and analysis.
+3. csv: For reading from and writing to CSV files.
+4. pdfkit: For converting HTML content to PDF files.
+5. reportlab: For generating PDF files.
+6. fitz (PyMuPDF): For extracting text from PDF files.
+7. spacy: For natural language processing, particularly Named Entity Recognition (NER).
+8. networkx: For creating and manipulating complex networks (graphs).
+9. matplotlib: For plotting and visualizing graphs.
+10. datetime: For handling dates and times.
+11. transformers: From Hugging Face, for leveraging pre-trained models like BERT and DistilBERT for sequence classification.
+12. torch: For working with PyTorch, a deep learning library used for training models.
+13. Faker: For generating synthetic data.
+14. random: For generating random values.
+15. sklearn: For machine learning tasks (specifically mentioned, but not used in the provided code).
+16. BERT and DistilBERT models: For sequence classification tasks, using pre-trained models from Hugging Face.
