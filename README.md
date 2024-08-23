@@ -7,7 +7,7 @@ sub-clauses. Use NER to determine the important feature from the document. Then 
 feature. Using Bert Model analyse the semantics and classify the contents of the parsed documents to these clauses. A contract has
 an associated template to it, and it is important to determine the deviations from that template and highlight them and analyse the
 semantics to generate corresponding suggestions.
-
+<br>
 <br>
 
 #Unique Idea Brief 
