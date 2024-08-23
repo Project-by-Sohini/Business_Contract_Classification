@@ -50,19 +50,29 @@ critical contract details.
 #Technologies used
 <br>
 <br>
-1. Python: The primary programming language used for the entire workflow.
-2. pandas: For data manipulation and analysis.
-3. csv: For reading from and writing to CSV files.
-4. pdfkit: For converting HTML content to PDF files.
-5. reportlab: For generating PDF files.
-6. fitz (PyMuPDF): For extracting text from PDF files.
-7. spacy: For natural language processing, particularly Named Entity Recognition (NER).
-8. networkx: For creating and manipulating complex networks (graphs).
-9. matplotlib: For plotting and visualizing graphs.
-10. datetime: For handling dates and times.
-11. transformers: From Hugging Face, for leveraging pre-trained models like BERT and DistilBERT for sequence classification.
-12. torch: For working with PyTorch, a deep learning library used for training models.
-13. Faker: For generating synthetic data.
-14. random: For generating random values.
-15. sklearn: For machine learning tasks (specifically mentioned, but not used in the provided code).
-16. BERT and DistilBERT models: For sequence classification tasks, using pre-trained models from Hugging Face.
+  1. Python: The primary programming language used for the entire workflow.
+  2. <br>
+  3. pandas: For data manipulation and analysis.
+  4. <br>
+  5. csv: For reading from and writing to CSV files.
+  6. <br>
+  7. pdfkit: For converting HTML content to PDF files.
+  8. <br>
+  9. reportlab: For generating PDF files.
+  10. <br>
+  11. fitz (PyMuPDF): For extracting text from PDF files.
+  12. <br>
+  13. spacy: For natural language processing, particularly Named Entity Recognition (NER).
+  14. <br>
+  15. networkx: For creating and manipulating complex networks (graphs).
+  16. <br>
+  17. matplotlib: For plotting and visualizing graphs.
+  18. <br>
+  19. datetime: For handling dates and times.
+  20. <br>
+  21. transformers: From Hugging Face, for leveraging pre-trained models like BERT and DistilBERT for sequence classification.
+22. torch: For working with PyTorch, a deep learning library used for training models.
+23. Faker: For generating synthetic data.
+24. random: For generating random values.
+25. sklearn: For machine learning tasks (specifically mentioned, but not used in the provided code).
+26. BERT and DistilBERT models: For sequence classification tasks, using pre-trained models from Hugging Face.
