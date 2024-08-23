@@ -1,4 +1,5 @@
 #Problem Statement
+
 <br>
 Business Contract Validation -To Classify Content within the Contract Clauses and Determine Deviations from Templates and
 highlight them.The first task is to parse these documents. Determine the key details within the contract document. Every contract has clauses and
@@ -6,7 +7,11 @@ sub-clauses. Use NER to determine the important feature from the document. Then 
 feature. Using Bert Model analyse the semantics and classify the contents of the parsed documents to these clauses. A contract has
 an associated template to it, and it is important to determine the deviations from that template and highlight them and analyse the
 semantics to generate corresponding suggestions.
+
+<br>
+
 #Unique Idea Brief 
+
 <br>
 The Advanced Contract Analysis and Deviation Detection System is an innovative solution designed to streamline and automate
 the meticulous process of business contract analysis. This system integrates multiple advanced technologies, including machine
@@ -22,7 +27,10 @@ relationships within the contract data, which is further illustrated with Matplo
 within the contract and saves these annotated contracts as PDFs for easy reference and review. This comprehensive approach not
 only improves efficiency and accuracy in contract analysis but also offers valuable insights and corrective measures, making it an
 indispensable tool for businesses handling complex contractual agreements.
+<br>
+
 #Features Offered
+
 <br>
 1. Synthetic Contract Generation: Utilizing the Faker library to create realistic contract datasets.
 2. PDF Text Extraction: Extracting text from PDF contracts using PyMuPDF (Fitz).
@@ -37,7 +45,10 @@ reference and review.
 8. Clause Validity Checks: Ensuring the correctness of company names, dates, amounts, notice periods, and other
 critical contract details.
 9. Suggestion: Generate suggestion based on the deviation
+<br>
+
 #Technologies used
+
 <br>
  Python: The primary programming language used for the entire workflow.
  pandas: For data manipulation and analysis.
